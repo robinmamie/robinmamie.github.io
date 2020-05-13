@@ -1,0 +1,30 @@
+title: Robin Mamié
+email: robin@mamie.one
+description: >-
+  Personal website
+
+baseurl: ""
+url: "" # "https://mamie.one"
+
+github_username:  robinmamie
+linkedin_username: robin-mamie
+twitter_username: robin_mamie
+
+timezone: "Europe/Zurich"
+permalink: /:year-:month-:day-:title/
+
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - CNAME
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

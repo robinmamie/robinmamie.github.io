@@ -4,7 +4,7 @@ description: >-
   Personal website
 
 baseurl: ""
-url: "" # "https://mamie.one"
+url: ""
 
 github_username:  robinmamie
 linkedin_username: robin-mamie

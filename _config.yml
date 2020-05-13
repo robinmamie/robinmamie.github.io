@@ -12,6 +12,7 @@ twitter_username: robin_mamie
 
 timezone: "Europe/Zurich"
 permalink: /:year-:month-:day-:title/
+show_excerpts: true
 
 theme: minima
 plugins:

@@ -1,0 +1,28 @@
+title: Robin Mamié
+description: >-
+  Personal website
+
+baseurl: ""
+url: ""
+
+github_username:  robinmamie
+
+timezone: "Europe/Zurich"
+permalink: /:year-:month-:day-:title/
+show_excerpts: true
+
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - CNAME
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

@@ -5,6 +5,11 @@ description: >-
 baseurl: ""
 url: ""
 
+linkedin_username: robin-mamie
+mastodon:
+- username: robinmamie
+  instance: qoto.org
+twitter_username: robin_mamie
 github_username: robinmamie
 
 timezone: "Europe/Zurich"

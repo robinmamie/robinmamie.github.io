@@ -2,4 +2,4 @@
 layout: home
 ---
 
-<a rel="me" href="https://qoto.org/@robinmamie"></a>
+<a rel="me" href="https://tooting.ch/@robinmamie"></a>

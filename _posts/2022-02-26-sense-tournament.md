@@ -19,7 +19,7 @@ A task which is quite mundane in and of itself, but which is now challenging as 
 Thanks to the help of the other regions in Switzerland, I was able to call 7 colleagues to ensure a smooth operation on that day.
 This number is the bare minimum when the competition unfolds on 4 different mats for such a long time.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E04JQ2kYTd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E04JQ2kYTd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 The video shows the final of the U17 under 42 kg category, of which I was the referee.
 You can see that everyone in the hall is exhausted since it is the end of the day.
@@ -35,5 +35,5 @@ Everything went well and quickly, and the next generation of wrestlers is coming
 PS: This year, I will officiate at Zagreb's Croatian Open (30.04) and at the European U17 Championships in Bucharest, Romania (13-19.06), both UWW tournaments.
 I will be a candidate for promotion to the second-highest category of international referees at the latter. Wish me luck!
 
-[Source of the video](https://www.fitschu.com/sense-videos/) ([archive](https://web.archive.org/web/20221122141907/https://www.fitschu.com/sense-videos/))
-[Article of the organising club, the RS Sense (in German)](https://www.rssense.ch/2022/02/21/25-internationales-senseturnier/)
+-[Source of the video](https://www.fitschu.com/sense-videos/) ([archive](https://web.archive.org/web/20221122141907/https://www.fitschu.com/sense-videos/))
+-[Article of the organising club, the RS Sense (in German)](https://www.rssense.ch/2022/02/21/25-internationales-senseturnier/)

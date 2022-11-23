@@ -35,5 +35,5 @@ Everything went well and quickly, and the next generation of wrestlers is coming
 PS: This year, I will officiate at Zagreb's Croatian Open (30.04) and at the European U17 Championships in Bucharest, Romania (13-19.06), both UWW tournaments.
 I will be a candidate for promotion to the second-highest category of international referees at the latter. Wish me luck!
 
--[Source of the video](https://www.fitschu.com/sense-videos/) ([archive](https://web.archive.org/web/20221122141907/https://www.fitschu.com/sense-videos/))
--[Article of the organising club, the RS Sense (in German)](https://www.rssense.ch/2022/02/21/25-internationales-senseturnier/)
+ * [Source of the video](https://www.fitschu.com/sense-videos/) ([archive](https://web.archive.org/web/20221122141907/https://www.fitschu.com/sense-videos/))
+ * [Article of the organising club, the RS Sense (in German)](https://www.rssense.ch/2022/02/21/25-internationales-senseturnier/)

@@ -19,7 +19,7 @@ A task which is quite mundane in and of itself, but which is now challenging as 
 Thanks to the help of the other regions in Switzerland, I was able to call 7 colleagues to ensure a smooth operation on that day.
 This number is the bare minimum when the competition unfolds on 4 different mats for such a long time.
 
-<iframe width="480" height="360" src="https://youtu.be/E04JQ2kYTd0" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E04JQ2kYTd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The video shows the final of the U17 under 42 kg category, of which I was the referee.
 You can see that everyone in the hall is exhausted since it is the end of the day.

@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="/img/pp.jpg" alt="Avatar" style="border-radius:50%;display:block;margin-left:auto;margin-right:auto;" height="200px" width="200px"> 
 
-I am a [computer engineer](https://github.com/robinmamie) graduated from [EPFL](https://people.epfl.ch/robin.mamie) and currently working at the Federal Supreme Court of Switzerland.
+I am a [computer engineer](https://github.com/robinmamie) graduated from [EPFL](https://arxiv.org/abs/2102.12837v2) and currently working at the Federal Supreme Court of Switzerland.
 I am also involved in Olympic wrestling as an [international referee](https://athena.unitedworldwrestling.org/p/41846?type=r), [head of Western Switzerland's](https://fsrla.ch/arbitres/) referees and vice-president of the local federation, and as the official translator of the [Swiss Wrestling Federation](https://swisswrestling.ch).
 
 - **Download my resume in English**: [PDF file](/docs/rgfm_cv_en.pdf), [source code](/docs/cv_en.tgz)

@@ -3,13 +3,12 @@ description: >-
   Personal website
 
 baseurl: ""
-url: ""
+url: "https://mamie.one"
 
-linkedin_username: robin-mamie
+linkedin_username: robinmamie
 mastodon:
 - username: robinmamie
   instance: tooting.ch
-twitter_username: robin_mamie
 github_username: robinmamie
 
 timezone: "Europe/Zurich"

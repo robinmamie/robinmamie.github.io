@@ -11,7 +11,7 @@ I am also involved in Olympic wrestling as an [international referee](https://at
 
 - **Download my resume in English**: [PDF file](/docs/rgfm_cv_en.pdf), [source code](/docs/cv_en.tgz)
 - **Téléchargez mon CV en français**: [fichier PDF](/docs/rgfm_cv_fr.pdf), [code source](/docs/cv_fr.tgz)
-- **Laden Sie meinen Lebenslauf auf Deutsch herunter**: [PDF Datei](/docs/rgfm_cv_de.pdf), [code source](/docs/cv_de.tgz)
+- **Laden Sie meinen Lebenslauf auf Deutsch herunter**: [PDF-Datei](/docs/rgfm_cv_de.pdf), [Quellcode](/docs/cv_de.tgz)
 ##### - Based on [Twenty Seconds CV](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex)
 
 - The code of my website is available on [GitHub](https://github.com/robinmamie/robinmamie.github.io).
